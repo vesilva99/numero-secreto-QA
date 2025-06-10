@@ -11,5 +11,5 @@ Seja bem-vindo!
 
 * Atenciosamente!
 
-* ![Em construção](https://img.shields.io/badge/status-em%20construção-yellow)
-![Static Badge](https://img.shields.io/badge/github-black)
+  ![Em construção](https://img.shields.io/badge/status-em%20construção-yellow)
+          ![Static Badge](https://img.shields.io/badge/github-black)
